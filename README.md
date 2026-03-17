@@ -28,6 +28,4 @@
 * git branch - просмотр всех веток и текущей
 * git checkout -b third_branch - создание и переход в новую ветку одновременно
 * git merge third_branch - слияние ветки third-branch с текущей веткой
-
-
-
+* git clone - скачивает (копирует) удалённый репозиторий
